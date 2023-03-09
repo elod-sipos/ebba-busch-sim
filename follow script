@@ -1,4 +1,5 @@
-# Create a script in ServerScriptService
+# Create a script in 'ServerScriptService'
+# Add a part in 'ServerStorage' and name it 'WBody'
 
 
 local WBody = game:GetService("ServerStorage").WBody
