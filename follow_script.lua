@@ -1,5 +1,5 @@
 # Create a script in 'ServerScriptService'
-# Add a part in 'ServerStorage' and name it 'WBody'
+# Add a part in 'ServerStorage' and name it 'Ebba'
 
 
 local Ebba = game:GetService("ServerStorage").Ebba
